@@ -113,13 +113,12 @@ footer a {
 
 .hero {
     background-image: url("../images/hero-bg.jpg");
-
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
 }
-*/ Hero Style End */
+/* Hero Style End */
 
 section {
     padding: 60px;
@@ -303,3 +302,14 @@ section {
     color: #fce138;
 }
 /* Reach Out Styles End */
+
+/* Privacy Policy */
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
