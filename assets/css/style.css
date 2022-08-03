@@ -183,7 +183,7 @@ section {
     margin: 0px;
 }
 .form-input {
-    border 1px solid #024e76;
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16px;
