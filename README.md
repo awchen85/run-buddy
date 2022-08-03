@@ -16,4 +16,4 @@ Made with ❤️ by Alex
 
 
 
-### ©️2019 Run Buddy, Inc 
+
